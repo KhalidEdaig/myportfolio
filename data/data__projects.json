@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "design.jpg",
+    "title": "UI Design",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo voluptate itaque repellat, excepturi illum quae? Aperiam.",
+
+    "tags": ["#ReactJS", "#VueJS", "#JavaScript"]
+  },
+  {
+    "id": 2,
+    "image": "webdev.jpg",
+    "title": "Web Developer",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo voluptate itaque repellat, excepturi illum quae? Aperiam.",
+
+    "tags": ["#ReactJS", "#VueJS", "#Laravel"]
+  },
+  {
+    "id": 3,
+    "image": "reporting.jpg",
+    "title": "Business Intelligence",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo voluptate itaque repellat, excepturi illum quae? Aperiam.",
+
+    "tags": ["#PowerBI", "#Tableau Software", "#SqlServer"]
+  }
+]

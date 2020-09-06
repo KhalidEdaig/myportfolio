@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Khalid EDAIG",
+    "phone": "(+212)682830900",
+    "email": "edaigkhalid@gmail.com",
+    "image": "edaig.jpg",
+    "job": "Web Developer",
+    "social_network": {
+      "facebook": "https://web.facebook.com/KHALID.EDAIG",
+      "linkedIn": "https://www.linkedin.com/in/khalid-edaig-41057315a/",
+      "twitter": "https://twitter.com/khalidedaig"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Yousra El Ghalbzouri",
+    "phone": "(+212)xxxxxxxx",
+    "email": "xxxxxx@gmail.com",
+    "image": "yousra.jpg",
+    "job": "BI",
+    "social_network": {
+      "facebook": "https://www.facebook.com/yousra.elghalbzouri.7",
+      "linkedIn": "https://www.linkedin.com/in/yousra-el-ghalbzouri-4a2234187/",
+      "twitter": "https://twitter.com/"
+    }
+  }
+]

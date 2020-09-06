@@ -1,0 +1,27 @@
+[data-title]:hover:after {
+  opacity: 1;
+  transition: all 0.1s ease 0.5s;
+  visibility: visible;
+}
+[data-title]:after {
+  content: attr(data-title);
+  background-color: #e56637;
+  color: white;
+  position: absolute;
+  padding: 2px 5px 2px 5px;
+  bottom: 2em;
+  left: -4em;
+  white-space: nowrap;
+  box-shadow: 2px 2px 4px rgb(215, 212, 203);
+  opacity: 0;
+  border: 1px solid white;
+  border-radius: 0.5rem;
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+  visibility: hidden;
+}
+[data-title] {
+  position: relative;
+}
