@@ -1,5 +1,5 @@
 # myportfolio
-
+build website using vusjs and tailwindcss
 ## Project setup
 ```
 npm install
